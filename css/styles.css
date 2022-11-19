@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;  
+  font-family: "Merriweather", serif; 
+  background-color: #bffff0;
+  color: #40514e;
+  position: relative;
+}
+
+span {
+  text-decoration: underline;
+}
+.pro-web-developer {
+  font-size: 1.8rem;
+}
+h1 {
+  color: #66bfbf;
+  font-size: 5rem; 
+  font-family: "Sacramento", cursive;
+  margin: 50px auto 0 auto;
+}
+h2 {
+  font-weight: normal;
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+}
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #65c18c;
+  border-width: 10px;
+  width: 5%;
+  margin: 50px auto 30px auto;
+   
+}
+.btn {
+  background: #66bfbf;
+  background-image: -webkit-linear-gradient(top, #66bfbf, #2980b9);
+  background-image: -moz-linear-gradient(top, #66bfbf, #2980b9);
+  background-image: -ms-linear-gradient(top, #66bfbf, #2980b9);
+  background-image: -o-linear-gradient(top, #66bfbf, #2980b9);
+  background-image: linear-gradient(to bottom, #66bfbf, #2980b9);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;  
+  color: #ffffff;
+  font-size: 19px;
+  padding: 5px 5px 5px 5px; 
+  text-decoration: none;
+  position: relative;
+  top: 70px;
+}
+.multi {
+  width: 40%;
+  line-height: 2;  
+  margin: 40px auto 40px auto;  
+}
+
+.btn:hover {
+  background: #3cfcbf;
+  background-image: -webkit-linear-gradient(top, #3cfcbf, #3498db);
+  background-image: -moz-linear-gradient(top, #3cfcbf, #3498db);
+  background-image: -ms-linear-gradient(top, #3cfcbf, #3498db);
+  background-image: -o-linear-gradient(top, #3cfcbf, #3498db);
+  background-image: linear-gradient(to bottom, #3cfcbf, #3498db);
+  text-decoration: none;
+}
+.clear1 {
+  line-height: 3;
+}
+.top-container {
+  background-color: #bffff0;
+  padding-top: 100px;
+}
+.all {
+  width: 40%; 
+  line-height: 2;  
+  margin: auto;
+}
+
+.Hello {
+  margin-top: 0;
+}
+.contact-me {
+  padding-bottom: 150px;
+}
+.cloud2 {
+  position: absolute;
+  left: 400px;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 40px;
+  left: 50px;
+}
+.man {
+  height: 100px;
+  width: 100px;  
+  padding: 30px;
+}
+.code {
+  width: 100px;  
+  float: left;  
+  margin-right: 30px;
+}
+.mechanic {
+  width: 100px;  
+  float: right;  
+  margin-left: 30px;  
+  padding-top: 6.5px;
+}
+.skill-row {
+  text-align: left; 
+  width: 50%;  
+  margin: 100px auto 75px auto; 
+  line-height: 2;  
+}
+ 
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 20px;
+  height: 50px;
+}
+a {
+  color: #11999e; 
+  font-family: "Merriweather", serif;  
+  margin: 10px 20px;  
+  text-decoration: none;  
+a:hover {
+  color: #eaf6f6;
+}
+.name {
+  color: #eaf6f6;
+  font-size: 0.75rem;  
+  padding: 10px 0;
+}
+ 
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin: 50px 0 0 50px;
+  border: solid 10px;
+  padding: 20px;
+}
